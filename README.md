@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kuldeep Kumar Prajapati</h1>
-<h3 align="center">A final year B.Tech-CSE student and a tech enthusiast particularly interested in the fields of AI, ML and Data Analytics, with excellent academics.</h3>
+<h3 align="center">A Computer Science Engineer and a tech enthusiast particularly interested in the fields of AI, ML and Data Analytics, with excellent academics.</h3>
 
 <img align="right" alt="exploring" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 
